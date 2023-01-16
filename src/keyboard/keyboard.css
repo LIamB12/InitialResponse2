@@ -1,0 +1,60 @@
+.row {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    gap: 3px;
+}
+
+button {
+    padding: 18px;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px lightgrey;
+    border-radius: 5px;
+    width: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button:hover{
+    background-color: rgb(220, 220,220);
+}
+
+.keyboard_container {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    padding: 0;
+    border-top: solid 1px black;
+    padding-top: 12px;
+    bottom: 0px;
+    background-color: rgb(235, 235, 235)
+}
+
+.nonLetter {
+    font-size: 15px;
+    width: fit-content
+}
+
+
+@media screen and (max-width: 1200px) {
+    button {
+        padding: 7px;
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    button {
+        padding: 2px;
+        font-size: 20px;
+        width: 30px;
+    }
+    .keyboard_container {
+        margin: 0;
+    }
+}
