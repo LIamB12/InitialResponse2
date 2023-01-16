@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/LiamBeenkenPortfolio/static/css/main.2002ec35.css",
-    "main.js": "/LiamBeenkenPortfolio/static/js/main.2f3f4277.js",
-    "index.html": "/LiamBeenkenPortfolio/index.html",
-    "main.2002ec35.css.map": "/LiamBeenkenPortfolio/static/css/main.2002ec35.css.map",
-    "main.2f3f4277.js.map": "/LiamBeenkenPortfolio/static/js/main.2f3f4277.js.map"
+    "main.css": "/InitialResponse2/static/css/main.2002ec35.css",
+    "main.js": "/InitialResponse2/static/js/main.2f3f4277.js",
+    "index.html": "/InitialResponse2/index.html",
+    "main.2002ec35.css.map": "/InitialResponse2/static/css/main.2002ec35.css.map",
+    "main.2f3f4277.js.map": "/InitialResponse2/static/js/main.2f3f4277.js.map"
   },
   "entrypoints": [
     "static/css/main.2002ec35.css",
